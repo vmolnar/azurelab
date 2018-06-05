@@ -1,0 +1,124 @@
+C:\Dropbox\Microsoft Cloud Workshops Projects\Serverless Architecture\TollBooth\UploadImages\bin\Debug\UploadImages.exe.config
+C:\Dropbox\Microsoft Cloud Workshops Projects\Serverless Architecture\TollBooth\UploadImages\bin\Debug\UploadImages.exe
+C:\Dropbox\Microsoft Cloud Workshops Projects\Serverless Architecture\TollBooth\UploadImages\bin\Debug\UploadImages.pdb
+C:\Dropbox\Microsoft Cloud Workshops Projects\Serverless Architecture\TollBooth\UploadImages\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Dropbox\Microsoft Cloud Workshops Projects\Serverless Architecture\TollBooth\UploadImages\bin\Debug\Microsoft.Data.Edm.dll
+C:\Dropbox\Microsoft Cloud Workshops Projects\Serverless Architecture\TollBooth\UploadImages\bin\Debug\Microsoft.Data.OData.dll
+C:\Dropbox\Microsoft Cloud Workshops Projects\Serverless Architecture\TollBooth\UploadImages\bin\Debug\Microsoft.Data.Services.Client.dll
+C:\Dropbox\Microsoft Cloud Workshops Projects\Serverless Architecture\TollBooth\UploadImages\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\Dropbox\Microsoft Cloud Workshops Projects\Serverless Architecture\TollBooth\UploadImages\bin\Debug\Microsoft.WindowsAzure.Storage.DataMovement.dll
+C:\Dropbox\Microsoft Cloud Workshops Projects\Serverless Architecture\TollBooth\UploadImages\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Dropbox\Microsoft Cloud Workshops Projects\Serverless Architecture\TollBooth\UploadImages\bin\Debug\Newtonsoft.Json.dll
+C:\Dropbox\Microsoft Cloud Workshops Projects\Serverless Architecture\TollBooth\UploadImages\bin\Debug\System.Spatial.dll
+C:\Dropbox\Microsoft Cloud Workshops Projects\Serverless Architecture\TollBooth\UploadImages\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\Dropbox\Microsoft Cloud Workshops Projects\Serverless Architecture\TollBooth\UploadImages\bin\Debug\Microsoft.Data.Edm.xml
+C:\Dropbox\Microsoft Cloud Workshops Projects\Serverless Architecture\TollBooth\UploadImages\bin\Debug\Microsoft.Data.OData.xml
+C:\Dropbox\Microsoft Cloud Workshops Projects\Serverless Architecture\TollBooth\UploadImages\bin\Debug\Microsoft.Data.Services.Client.xml
+C:\Dropbox\Microsoft Cloud Workshops Projects\Serverless Architecture\TollBooth\UploadImages\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Dropbox\Microsoft Cloud Workshops Projects\Serverless Architecture\TollBooth\UploadImages\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Dropbox\Microsoft Cloud Workshops Projects\Serverless Architecture\TollBooth\UploadImages\bin\Debug\Microsoft.WindowsAzure.Storage.DataMovement.pdb
+C:\Dropbox\Microsoft Cloud Workshops Projects\Serverless Architecture\TollBooth\UploadImages\bin\Debug\Microsoft.WindowsAzure.Storage.DataMovement.xml
+C:\Dropbox\Microsoft Cloud Workshops Projects\Serverless Architecture\TollBooth\UploadImages\bin\Debug\Newtonsoft.Json.xml
+C:\Dropbox\Microsoft Cloud Workshops Projects\Serverless Architecture\TollBooth\UploadImages\bin\Debug\System.Spatial.xml
+C:\Dropbox\Microsoft Cloud Workshops Projects\Serverless Architecture\TollBooth\UploadImages\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+C:\Dropbox\Microsoft Cloud Workshops Projects\Serverless Architecture\TollBooth\UploadImages\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+C:\Dropbox\Microsoft Cloud Workshops Projects\Serverless Architecture\TollBooth\UploadImages\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+C:\Dropbox\Microsoft Cloud Workshops Projects\Serverless Architecture\TollBooth\UploadImages\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+C:\Dropbox\Microsoft Cloud Workshops Projects\Serverless Architecture\TollBooth\UploadImages\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+C:\Dropbox\Microsoft Cloud Workshops Projects\Serverless Architecture\TollBooth\UploadImages\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+C:\Dropbox\Microsoft Cloud Workshops Projects\Serverless Architecture\TollBooth\UploadImages\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+C:\Dropbox\Microsoft Cloud Workshops Projects\Serverless Architecture\TollBooth\UploadImages\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Dropbox\Microsoft Cloud Workshops Projects\Serverless Architecture\TollBooth\UploadImages\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Dropbox\Microsoft Cloud Workshops Projects\Serverless Architecture\TollBooth\UploadImages\bin\Debug\de\Microsoft.Data.OData.resources.dll
+C:\Dropbox\Microsoft Cloud Workshops Projects\Serverless Architecture\TollBooth\UploadImages\bin\Debug\es\Microsoft.Data.OData.resources.dll
+C:\Dropbox\Microsoft Cloud Workshops Projects\Serverless Architecture\TollBooth\UploadImages\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+C:\Dropbox\Microsoft Cloud Workshops Projects\Serverless Architecture\TollBooth\UploadImages\bin\Debug\it\Microsoft.Data.OData.resources.dll
+C:\Dropbox\Microsoft Cloud Workshops Projects\Serverless Architecture\TollBooth\UploadImages\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+C:\Dropbox\Microsoft Cloud Workshops Projects\Serverless Architecture\TollBooth\UploadImages\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+C:\Dropbox\Microsoft Cloud Workshops Projects\Serverless Architecture\TollBooth\UploadImages\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+C:\Dropbox\Microsoft Cloud Workshops Projects\Serverless Architecture\TollBooth\UploadImages\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Dropbox\Microsoft Cloud Workshops Projects\Serverless Architecture\TollBooth\UploadImages\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Dropbox\Microsoft Cloud Workshops Projects\Serverless Architecture\TollBooth\UploadImages\bin\Debug\de\Microsoft.Data.Services.Client.resources.dll
+C:\Dropbox\Microsoft Cloud Workshops Projects\Serverless Architecture\TollBooth\UploadImages\bin\Debug\es\Microsoft.Data.Services.Client.resources.dll
+C:\Dropbox\Microsoft Cloud Workshops Projects\Serverless Architecture\TollBooth\UploadImages\bin\Debug\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Dropbox\Microsoft Cloud Workshops Projects\Serverless Architecture\TollBooth\UploadImages\bin\Debug\it\Microsoft.Data.Services.Client.resources.dll
+C:\Dropbox\Microsoft Cloud Workshops Projects\Serverless Architecture\TollBooth\UploadImages\bin\Debug\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Dropbox\Microsoft Cloud Workshops Projects\Serverless Architecture\TollBooth\UploadImages\bin\Debug\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Dropbox\Microsoft Cloud Workshops Projects\Serverless Architecture\TollBooth\UploadImages\bin\Debug\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Dropbox\Microsoft Cloud Workshops Projects\Serverless Architecture\TollBooth\UploadImages\bin\Debug\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Dropbox\Microsoft Cloud Workshops Projects\Serverless Architecture\TollBooth\UploadImages\bin\Debug\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Dropbox\Microsoft Cloud Workshops Projects\Serverless Architecture\TollBooth\UploadImages\bin\Debug\de\System.Spatial.resources.dll
+C:\Dropbox\Microsoft Cloud Workshops Projects\Serverless Architecture\TollBooth\UploadImages\bin\Debug\es\System.Spatial.resources.dll
+C:\Dropbox\Microsoft Cloud Workshops Projects\Serverless Architecture\TollBooth\UploadImages\bin\Debug\fr\System.Spatial.resources.dll
+C:\Dropbox\Microsoft Cloud Workshops Projects\Serverless Architecture\TollBooth\UploadImages\bin\Debug\it\System.Spatial.resources.dll
+C:\Dropbox\Microsoft Cloud Workshops Projects\Serverless Architecture\TollBooth\UploadImages\bin\Debug\ja\System.Spatial.resources.dll
+C:\Dropbox\Microsoft Cloud Workshops Projects\Serverless Architecture\TollBooth\UploadImages\bin\Debug\ko\System.Spatial.resources.dll
+C:\Dropbox\Microsoft Cloud Workshops Projects\Serverless Architecture\TollBooth\UploadImages\bin\Debug\ru\System.Spatial.resources.dll
+C:\Dropbox\Microsoft Cloud Workshops Projects\Serverless Architecture\TollBooth\UploadImages\bin\Debug\zh-Hans\System.Spatial.resources.dll
+C:\Dropbox\Microsoft Cloud Workshops Projects\Serverless Architecture\TollBooth\UploadImages\bin\Debug\zh-Hant\System.Spatial.resources.dll
+C:\Dropbox\Microsoft Cloud Workshops Projects\Serverless Architecture\TollBooth\UploadImages\obj\Debug\UploadImages.csprojResolveAssemblyReference.cache
+C:\Dropbox\Microsoft Cloud Workshops Projects\Serverless Architecture\TollBooth\UploadImages\obj\Debug\UploadImages.csproj.CoreCompileInputs.cache
+C:\Dropbox\Microsoft Cloud Workshops Projects\Serverless Architecture\TollBooth\UploadImages\obj\Debug\UploadImages.exe
+C:\Dropbox\Microsoft Cloud Workshops Projects\Serverless Architecture\TollBooth\UploadImages\obj\Debug\UploadImages.pdb
+C:\Hackathon\TollBooth\UploadImages\bin\Debug\UploadImages.exe.config
+C:\Hackathon\TollBooth\UploadImages\bin\Debug\UploadImages.exe
+C:\Hackathon\TollBooth\UploadImages\bin\Debug\UploadImages.pdb
+C:\Hackathon\TollBooth\UploadImages\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Hackathon\TollBooth\UploadImages\bin\Debug\Microsoft.Data.Edm.dll
+C:\Hackathon\TollBooth\UploadImages\bin\Debug\Microsoft.Data.OData.dll
+C:\Hackathon\TollBooth\UploadImages\bin\Debug\Microsoft.Data.Services.Client.dll
+C:\Hackathon\TollBooth\UploadImages\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\Hackathon\TollBooth\UploadImages\bin\Debug\Microsoft.WindowsAzure.Storage.DataMovement.dll
+C:\Hackathon\TollBooth\UploadImages\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Hackathon\TollBooth\UploadImages\bin\Debug\Newtonsoft.Json.dll
+C:\Hackathon\TollBooth\UploadImages\bin\Debug\System.Spatial.dll
+C:\Hackathon\TollBooth\UploadImages\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\Hackathon\TollBooth\UploadImages\bin\Debug\Microsoft.Data.Edm.xml
+C:\Hackathon\TollBooth\UploadImages\bin\Debug\Microsoft.Data.OData.xml
+C:\Hackathon\TollBooth\UploadImages\bin\Debug\Microsoft.Data.Services.Client.xml
+C:\Hackathon\TollBooth\UploadImages\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Hackathon\TollBooth\UploadImages\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Hackathon\TollBooth\UploadImages\bin\Debug\Microsoft.WindowsAzure.Storage.DataMovement.pdb
+C:\Hackathon\TollBooth\UploadImages\bin\Debug\Microsoft.WindowsAzure.Storage.DataMovement.xml
+C:\Hackathon\TollBooth\UploadImages\bin\Debug\Newtonsoft.Json.xml
+C:\Hackathon\TollBooth\UploadImages\bin\Debug\System.Spatial.xml
+C:\Hackathon\TollBooth\UploadImages\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+C:\Hackathon\TollBooth\UploadImages\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+C:\Hackathon\TollBooth\UploadImages\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+C:\Hackathon\TollBooth\UploadImages\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+C:\Hackathon\TollBooth\UploadImages\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+C:\Hackathon\TollBooth\UploadImages\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+C:\Hackathon\TollBooth\UploadImages\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+C:\Hackathon\TollBooth\UploadImages\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Hackathon\TollBooth\UploadImages\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Hackathon\TollBooth\UploadImages\bin\Debug\de\Microsoft.Data.OData.resources.dll
+C:\Hackathon\TollBooth\UploadImages\bin\Debug\es\Microsoft.Data.OData.resources.dll
+C:\Hackathon\TollBooth\UploadImages\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+C:\Hackathon\TollBooth\UploadImages\bin\Debug\it\Microsoft.Data.OData.resources.dll
+C:\Hackathon\TollBooth\UploadImages\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+C:\Hackathon\TollBooth\UploadImages\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+C:\Hackathon\TollBooth\UploadImages\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+C:\Hackathon\TollBooth\UploadImages\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Hackathon\TollBooth\UploadImages\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Hackathon\TollBooth\UploadImages\bin\Debug\de\Microsoft.Data.Services.Client.resources.dll
+C:\Hackathon\TollBooth\UploadImages\bin\Debug\es\Microsoft.Data.Services.Client.resources.dll
+C:\Hackathon\TollBooth\UploadImages\bin\Debug\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Hackathon\TollBooth\UploadImages\bin\Debug\it\Microsoft.Data.Services.Client.resources.dll
+C:\Hackathon\TollBooth\UploadImages\bin\Debug\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Hackathon\TollBooth\UploadImages\bin\Debug\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Hackathon\TollBooth\UploadImages\bin\Debug\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Hackathon\TollBooth\UploadImages\bin\Debug\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Hackathon\TollBooth\UploadImages\bin\Debug\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Hackathon\TollBooth\UploadImages\bin\Debug\de\System.Spatial.resources.dll
+C:\Hackathon\TollBooth\UploadImages\bin\Debug\es\System.Spatial.resources.dll
+C:\Hackathon\TollBooth\UploadImages\bin\Debug\fr\System.Spatial.resources.dll
+C:\Hackathon\TollBooth\UploadImages\bin\Debug\it\System.Spatial.resources.dll
+C:\Hackathon\TollBooth\UploadImages\bin\Debug\ja\System.Spatial.resources.dll
+C:\Hackathon\TollBooth\UploadImages\bin\Debug\ko\System.Spatial.resources.dll
+C:\Hackathon\TollBooth\UploadImages\bin\Debug\ru\System.Spatial.resources.dll
+C:\Hackathon\TollBooth\UploadImages\bin\Debug\zh-Hans\System.Spatial.resources.dll
+C:\Hackathon\TollBooth\UploadImages\bin\Debug\zh-Hant\System.Spatial.resources.dll
+C:\Hackathon\TollBooth\UploadImages\obj\Debug\UploadImages.csprojResolveAssemblyReference.cache
+C:\Hackathon\TollBooth\UploadImages\obj\Debug\UploadImages.csproj.CoreCompileInputs.cache
+C:\Hackathon\TollBooth\UploadImages\obj\Debug\UploadImages.exe
+C:\Hackathon\TollBooth\UploadImages\obj\Debug\UploadImages.pdb
